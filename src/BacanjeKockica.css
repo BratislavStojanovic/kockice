@@ -1,0 +1,27 @@
+.wraper {
+  display: flex;
+
+  flex-flow: column nowrap;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.wraper button {
+  align-self: center;
+  width: 15em;
+  padding: 1.5em;
+  border: 0px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  margin-top: 3em;
+}
+
+.wraper button:hover {
+  background: slateblue;
+  cursor: pointer;
+}
