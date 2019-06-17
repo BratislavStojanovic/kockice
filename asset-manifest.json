@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kockice/static/css/main.f32157e6.chunk.css",
+    "main.js": "/kockice/static/js/main.7c56e895.chunk.js",
+    "main.js.map": "/kockice/static/js/main.7c56e895.chunk.js.map",
+    "runtime~main.js": "/kockice/static/js/runtime~main.9664989b.js",
+    "runtime~main.js.map": "/kockice/static/js/runtime~main.9664989b.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/kockice/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/kockice/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/kockice/index.html",
+    "precache-manifest.eb2a86b10b7fc06b1f819654dc11a884.js": "/kockice/precache-manifest.eb2a86b10b7fc06b1f819654dc11a884.js",
+    "service-worker.js": "/kockice/service-worker.js",
+    "static/css/main.f32157e6.chunk.css.map": "/kockice/static/css/main.f32157e6.chunk.css.map"
+  }
+}
